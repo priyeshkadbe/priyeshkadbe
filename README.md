@@ -14,6 +14,27 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&count_private=true&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=dracula" />
 </p>
+
+<hr/>
+
+
+## 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyeshkadbe&layout=compact&hide_border=true&theme=dracula" />
+</p>
+
+
+---
+
+<hr/>
+
+## 📈 GitHub Activity Graph:
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
+
