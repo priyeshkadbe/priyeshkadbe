@@ -25,7 +25,7 @@
    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=dracula" />
 
 </a>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="96.5%" />
 </div>
 
 <div align="center">
