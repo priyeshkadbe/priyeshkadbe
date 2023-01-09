@@ -32,7 +32,6 @@
 
 <hr/>
 
-## 📈 GitHub Activity Graph:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
 
