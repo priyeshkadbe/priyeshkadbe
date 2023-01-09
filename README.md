@@ -1,3 +1,5 @@
+![Priyesh Kadbe](https://raw.githubusercontent.com/AVS1508/AVS1508/main/assets/../../../../../../assets/giphy.gif)
+
 <h1 align="center">Hi , I'm Priyesh Kadbe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -17,10 +19,10 @@
 <div >
 
   <a href="https://github.com/priyeshkadbe/priyeshkadbe">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 </a> 
 <a href="https://github.com/priyeshkadbe/priyeshkadbe">
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=dracula" />
+   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=dracula" />
 
 </a>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="100%" />
