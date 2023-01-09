@@ -5,7 +5,7 @@
 
 
 <p align='center'>
-<img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="400" >
+<img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="100%" >
 </p>
 
 <p align="center" position="absolute">
@@ -25,13 +25,13 @@
 <div >
 
   <a href="https://github.com/priyeshkadbe/priyeshkadbe">
-   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 </a> 
 <a href="https://github.com/priyeshkadbe/priyeshkadbe">
-   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=dracula" />
+   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=dracula" />
 
 </a>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="96.5%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="98%" />
 </div>
 
 <div align="center">
