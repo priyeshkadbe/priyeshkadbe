@@ -1,8 +1,8 @@
 
+<!-- 
+<h1 align="center">Hi , I'm Priyesh Kadbe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 
-<h1 align="center">Hi , I'm Priyesh Kadbe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
+# Hey!! Great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 <p align='center'>
 <img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="100%" >
