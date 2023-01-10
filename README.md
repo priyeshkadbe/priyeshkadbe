@@ -100,15 +100,15 @@ My passion for software lies with dreaming up ideas and making them come true wi
   
 </div>
 
-
+<!-- 
 <div align="right">
 
   <p><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f75c7e&style=flat&logo" alt="back to top" /></p>
 </div>
-
-<div align="left">
+ -->
+<!-- <div align="left">
 <p> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=f75c7e&style=flat" alt="aenq" /> </p>
-</div>
+</div> -->
 
 </div>
 <p align="center">
