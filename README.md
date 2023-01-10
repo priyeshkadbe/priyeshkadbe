@@ -47,18 +47,12 @@
 
 ### Spotify Recenly Played 🎧
 
-<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m) -->
-
-<object data="https://now-play.vercel.app/api/generate?uid=8335d217-be90-43cb-845c-149f064779bb&theme=dark" >
-
-  <img src="https://now-play.vercel.app/api/generate?uid=8335d217-be90-43cb-845c-149f064779bb&theme=dark" />
-
-</object>
+[![Spotify](https://https-github-com-music-lights-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/priyeshkadbe)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=1000)
-![Alt_text](https://readme-now-playing.vercel.app/now-playing/q?uid=priyeshkadbe)
+
 <hr/>
 
 <p align="center">
