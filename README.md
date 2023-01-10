@@ -8,28 +8,28 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/name.svg" alt="Priyesh Kadbe" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Developer;Backend+Developer;Frontend+Developer&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&pause=1000&size=42" />
+<!--       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Developer;Backend+Developer;Frontend+Developer&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&pause=1000&size=42" /> -->
 </h1>
-<p align="center" position="absolute">
+<!-- <p align="center" position="absolute"> -->
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg">
  </a>
-</p>
+</p> -->
 
-<img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="100%" >
+<!-- <img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="100%" >
+ -->
 
-
- <h1 align="center"><b> About Me </b></h1>
-hi, I'm [Priyesh Kadbe](https://github.com/priyeshkadbe), a passionate self-taught full stack  developer and a freelance software engineer from India .
+<!--  <h1 align="center"><b> About Me </b></h1> -->
+Hi, I'm [Priyesh Kadbe](https://github.com/priyeshkadbe), a passionate self-taught full stack  developer and a freelance software engineer from India .
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 
-
+<!-- 
  <h1 align="center"><b> Tool & Technologies I use </b></h1>
 
 
----
+--- -->
 
  <h1 align="center"><b> 📈My Github Stats📊 </b></h1>
 
