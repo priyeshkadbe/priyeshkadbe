@@ -76,6 +76,8 @@
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Fira+Code+Slab&size=24&pause=1000&color=f75c7e&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f75c7e&style=flat&logo" alt="back to top" /></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=f75c7e&style=flat" alt="aenq" /> </p>
 
 
