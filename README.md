@@ -7,12 +7,12 @@
 
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/../../../../../assets/name.svg" alt="Priyesh Kadbe" />
+  <img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/name.svg" alt="Priyesh Kadbe" />
 </h1>
 
-<!-- <p align='center'>
+<p align='center'>
 <img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="100%" >
-</p> -->
+</p>
 
 
 
