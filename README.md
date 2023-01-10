@@ -49,12 +49,11 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 </div>
 
-<hr/>
 
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p> -->
 
-<hr/>
+
 
 ## Spotify Now Playing 🎧
  
