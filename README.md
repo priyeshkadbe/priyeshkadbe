@@ -4,9 +4,18 @@
 
 # Hey!! Great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-<p align='center'>
+
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/name.svg" alt="Priyesh Kadbe" />
+</h1>
+
+<!-- <p align='center'>
 <img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="100%" >
-</p>
+</p> -->
+
+
+
 
 <p align="center" position="absolute">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
