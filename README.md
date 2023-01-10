@@ -66,9 +66,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <div>
 <div align="center">
-    <p align="center">
+   
   <img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/thankyou.svg" alt="Priyesh Kadbe" />
-  </p>
+  
 </div>
 
 <div align="right">
