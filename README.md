@@ -96,9 +96,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <div>
 <div align="center">
    
-  <img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/thankyou.svg" alt="Priyesh Kadbe" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=thankyou+for+visiting+my+github)](https://git.io/typing-svg)
   
 </div>
+
 
 <div align="right">
 
