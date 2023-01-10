@@ -13,19 +13,20 @@
 <p align="center" position="absolute">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-
  </a>
- 
 </p>
 
-<p align='center'>
 <img  src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/giphy.gif" width="100%" >
-</p>
 
 
+ <h1 align="center"><b> About Me </b></h1>
 
 
+---
 
+---
+
+ <h1 align="center"><b> Tool & Technologies I use </b></h1>
 
 
 ---
