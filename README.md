@@ -112,5 +112,5 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=60&section=footer"/>
 </p>
