@@ -41,6 +41,21 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="98%" />
 </div>
 
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/priyeshkadbe#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/priyeshkadbe#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/priyeshkadbe#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyeshkadbe&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/priyeshkadbe#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyeshkadbe&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/priyeshkadbe#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&theme=default"/></a><a href="https://github.com/priyeshkadbe#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/priyeshkadbe#gh-light-mode-only"><img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/priyeshkadbe#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
+
+
 <div align="center">
 
 </div>
