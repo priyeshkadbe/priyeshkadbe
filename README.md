@@ -54,14 +54,14 @@
 
 <hr/>
 
-### Spotify Recenly Played 🎧
-<!-- 
+## Spotify Now Playing 🎧
+ 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
- -->
-<!-- [![Spotify](https://https-github-com-music-lights-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/priyeshkadbe) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+ 
+[![Spotify](https://https-github-com-music-lights-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=500)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=1000)
 
 <hr/>
 
