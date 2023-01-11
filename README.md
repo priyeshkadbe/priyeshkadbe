@@ -115,13 +115,13 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p> -->
 
-## Spotify Now Playing 🎧
+## Currently Vibing On 🎧
 
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=600&count=7" />
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=500&count=7" />
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=400) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m)
