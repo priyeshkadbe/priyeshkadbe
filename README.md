@@ -21,11 +21,13 @@
 Hi, I'm [Priyesh Kadbe](https://github.com/priyeshkadbe), a passionate self-taught full stack developer and a freelance software engineer from India .
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </samp>
-
+<img align="right" src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/cat.gif" />
 <div>
-<img align="right" src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/cat.gif" height="300" />
+
 <h2>⚡️ A Few Quick Facts</h2>
+
 <ul>
+	
 <li>🔭 I’m currently working at </li>
 <!-- <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li> -->
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/">Github</a>.</li>
