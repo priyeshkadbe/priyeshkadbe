@@ -23,7 +23,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 </samp>
 
 <div>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/cat.gif" height="300" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working at </li>
@@ -36,11 +36,14 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <li>📙 Check out my .</li>
 <li>🎉 Fun Fact: </li>
 </ul>
+
 </div>
 
 
- <h1 align="center"><b> 📈My Github Stats📊 </b></h1>
 
+<div>
+<hr/>
+ <h1 align="left"><b> 📈My Github Stats📊 </b></h1>
 <div >
 
   <a href="https://github.com/priyeshkadbe/priyeshkadbe">
@@ -51,6 +54,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 </a>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="98%" />
+</div>
 </div>
 
 
