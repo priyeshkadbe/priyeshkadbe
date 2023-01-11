@@ -41,10 +41,12 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 </div>
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <div>
-<hr/>
+
  <h1 align="left"><b> 📈My Github Stats📊 </b></h1>
 <div >
 
@@ -68,7 +70,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 
 <!--
@@ -88,13 +92,17 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 
 
-<hr/>
+
 <!-- 
 <p align="center">
    <img src="https://github.com/priyeshkadbe/priyeshkadbe/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p> -->
-
-## Let's Connect
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+	
+	
+<!-- ## Let's Connect -->
 
 <p align="center">
 	<a href="#" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
