@@ -304,8 +304,11 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <div>
 <div align="center">
    
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=thankyou+for+visiting+my+github)](https://git.io/typing-svg)
-  
+ 
+	
+  <img align="left" src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=f75c7e&style=flat" alt="aenq" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=thankyou+for+visiting+my+github"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=thankyou+for+visiting+my+github" />
+<a href="#top"><img align="right" src="https://img.shields.io/static/v1?label&message=back+to+top&color=f75c7e&style=flat&logo" alt="back to top" />
 </div>
 
 <!-- 
@@ -315,7 +318,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 </div>
  -->
 <!-- <div align="left">
-<p> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=f75c7e&style=flat" alt="aenq" /> </p>
+<p>  </p>
 </div> -->
 
 </div>
