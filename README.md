@@ -27,11 +27,12 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
-	
+	<li>I'm a Web3 enthusiast</li>
 <li>🔭 I’m currently working as a Software Developer at a Web3 based startup</li>
 <!-- <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li> -->
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/">Github</a>.</li>
-
+<li>💼 any freelance work? do reach, [email](mailto:priyeshkadbe49@gmail.com) :)</li>
+	
 </ul>
 
 </div>
