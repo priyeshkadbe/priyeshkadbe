@@ -48,7 +48,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 	
 ## 🚀  My Skills
 
-### Frameworks & Library [🔝](#welcome-badges-4-readmemd-profile)
+### Frameworks & Library 
 <p align="left"> 
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
    <img  alt="ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
@@ -154,7 +154,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 </p>
 
-###  Languages [🔝](#welcome-badges-4-readmemd-profile)
+###  Languages 
 <p align="left">
 	
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -176,7 +176,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 
 
-### OS & Tools [🔝](#welcome-badges-4-readmemd-profile)
+### OS & Tools
 <p align="left">
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
    <img  alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
