@@ -28,15 +28,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <ul>
 	
-<li>🔭 I’m currently working at </li>
+<li>🔭 I’m currently working as a Software Developer at a Web3 based startup</li>
 <!-- <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li> -->
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/">Github</a>.</li>
-<li>📝 I my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my .</li>
-<li>🎉 Fun Fact: </li>
-<li>📙 Check out my .</li>
-<li>🎉 Fun Fact: </li>
+
 </ul>
 
 </div>
