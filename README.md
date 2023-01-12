@@ -46,37 +46,185 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <br>
 
 	
-## 🛠️ My Skills
+## 🚀  My Skills
 
-### 👉 languages & libraries
-
+### Frameworks & Library [🔝](#welcome-badges-4-readmemd-profile)
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a> 
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  </a> 
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-&emsp; 
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+  </a> 
+  &emsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="web3js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  </a> 
+  &emsp;
+	
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a> 
+  &emsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a> 
+  &emsp;
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="graphql" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
+  </a> 
+  &emsp;
+
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  </a> 
+  &emsp;
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  </a> 
+  &emsp;
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </a> 
+  &emsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> 
+  &emsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="aws" src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a> 
+  &emsp;
+
 </p>
+
+###  Languages [🔝](#welcome-badges-4-readmemd-profile)
+<p align="left">
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a> 
+  &emsp;
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </a> 
+  &emsp;
+
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+  </a> 
+  &emsp;
+	
+
+
+
+### OS & Tools [🔝](#welcome-badges-4-readmemd-profile)
+<p align="left">
+	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </a> 
+  &emsp;
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a> 
+  &emsp;
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+  </a> 
+  &emsp;
+
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  </a> 
+  &emsp;
+	
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+  </a> 
+  &emsp;
+
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+   <img  alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a> 
+  &emsp;
+
+
+</p>
+
+
+
 
 
 
