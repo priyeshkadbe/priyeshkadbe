@@ -21,7 +21,7 @@
 Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px"> I'm Priyesh Kadbe a passionate self-taught full stack developer and a freelance software engineer from India .
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </samp>
-<img align="right" src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/cat.gif" />
+<img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/cat.gif" />
 <div>
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -249,10 +249,11 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=500&count=7" />
+
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=400) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m)
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=500&count=7" />
 
 <!--
 <p align="center">
