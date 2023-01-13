@@ -245,7 +245,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p> -->
 
-##🎧 Currently Vibing On 
+## 🎧Currently Vibing On 
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
