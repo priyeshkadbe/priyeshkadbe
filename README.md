@@ -252,7 +252,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=400) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=true&background_color=323437)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=true&background_color=202021)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m)
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=500&count=7" />
 
 <!--
