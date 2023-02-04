@@ -245,24 +245,24 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p> -->
 
-## 🎧Currently Vibing On 
+<!-- ## 🎧Currently Vibing On  -->
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=400) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=true&background_color=202021)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m)
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=500&count=7" />
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vo99o2gjq99yjwml6cs892d1m&cover_image=true&theme=default&show_offline=true&background_color=202021)](https://open.spotify.com/user/vo99o2gjq99yjwml6cs892d1m)
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vo99o2gjq99yjwml6cs892d1m&width=500&count=7" /> -->
 
 <!--
 <p align="center">
    <img src="https://github.com/priyeshkadbe/priyeshkadbe/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p> -->
-<p  align="center">
+<!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-	
+	 -->
 	
 <!-- ## Let's Connect -->
 
