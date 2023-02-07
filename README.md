@@ -228,8 +228,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshkadbe&hide_border=true&theme=dracula" />
 
 </a>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="98%" />
-</div>
+<img  src="https://github-readme-activity-graph.cyclic.app/graph?username=priyeshkadbe&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="98%" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyeshkadbe&show_icons=true&count_private=true&locale=en&theme=dracula&hide_border=true" alt="priyeshkaddbe" width="45%" />
+</div> -->
+
 </div>
 
 <!--
