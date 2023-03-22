@@ -61,20 +61,20 @@ My passion for software lies with dreaming up ideas and making them come true wi
   </a> 
   &emsp;
 
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a> 
-  &emsp;
+  &emsp; -->
 	
 <a href="#" target="_blank"> 
     <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a> 
   &emsp;
 	
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
   </a> 
-  &emsp;
+  &emsp; -->
 <a href="#" target="_blank"> 
    <img  alt="web3js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
   </a> 
@@ -109,43 +109,43 @@ My passion for software lies with dreaming up ideas and making them come true wi
   </a> 
   &emsp;
 	
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
   </a> 
-  &emsp;
-
+  &emsp; -->
+<!-- 
 <a href="#" target="_blank"> 
    <img  alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   </a> 
-  &emsp;
+  &emsp; -->
 	
 <a href="#" target="_blank"> 
    <img  alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   </a> 
   &emsp;
 	
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   </a> 
-  &emsp;
+  &emsp; -->
 
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   </a> 
-  &emsp;
+  &emsp; -->
 
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   </a> 
-  &emsp;
-<a href="#" target="_blank"> 
+  &emsp; -->
+<!-- <a href="#" target="_blank"> 
    <img  alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> 
+  </a>  -->
   &emsp;
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="aws" src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a> 
-  &emsp;
+  &emsp; -->
 
 </p>
 
@@ -182,10 +182,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
   </a> 
   &emsp;
 
-<a href="#" target="_blank"> 
+<!-- <a href="#" target="_blank"> 
    <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </a> 
-  &emsp;
+  &emsp; -->
 
 <a href="#" target="_blank"> 
    <img  alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -219,7 +219,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-## 📈My Github Stats
+<!-- ## 📈My Github Stats
 
   <a href="https://github.com/priyeshkadbe/priyeshkadbe">
    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyeshkadbe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
@@ -240,9 +240,6 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 --- -->
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkadbe&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p> -->
