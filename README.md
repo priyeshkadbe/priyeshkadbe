@@ -31,13 +31,27 @@ Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/cat.gif" />
 <div>
 
+<!--
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
 	<li>I'm a Web3 enthusiast</li>
 <li>I’m currently working as a Senior Software Developer at a Web3 based startup from last three-plus years</li>
-<!-- <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li> -->
 <li> Most of my projects are available on <a href="https://github.com/">Github</a>.</li>
+<li>If you have any freelance work available, please feel free to <a href="mailto:priyeshkadbe49@gmail.com">Email me</a> :)</li>
+	
+</ul>
+
+-->
+
+<h2>⚡️ A Few Quick Facts</h2>
+
+<ul>
+	<li> I have a deep passion for Web3 technologies and decentralized applications.</li>
+<li> I’m currently working as a  Software Developer at a Web3 startups, with over three years of experience in the field.
+</li>
+<!-- <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li> -->
+<li> Most of my projects are available on<a href="https://github.com/">Github</a>.</li>
 <li>If you have any freelance work available, please feel free to <a href="mailto:priyeshkadbe49@gmail.com">Email me</a> :)</li>
 	
 </ul>
