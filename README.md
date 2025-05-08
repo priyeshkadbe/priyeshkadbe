@@ -25,7 +25,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 -->
 
 <samp>
-Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px"> I'm Priyesh Kadbe. My expertise lies in dreaming up innovative ideas and making them come true with secure, user-friendly solutions. I take great care in the experience, architecture, and code quality of everything I build, ensuring robust and maintainable platforms. With over 3 years of experience in Web3 and DeFi, I specialize in developing Ethereum-based DApps, optimizing smart contracts, and integrating multiple DEX protocols.
+Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px"> I'm Priyesh Kadbe. My expertise lies in dreaming up innovative ideas and making them come true with secure, user-friendly solutions. I take great care in the experience, architecture, and code quality of everything I build, ensuring robust and maintainable platforms. With over 4+ years of experience in Web3 and DeFi, I specialize in developing Ethereum-based DApps, optimizing smart contracts, and integrating multiple DEX protocols.
 </samp>
 
 <img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/cat.gif" />
