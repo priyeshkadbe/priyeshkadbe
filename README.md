@@ -7,9 +7,9 @@
   <img src="https://raw.githubusercontent.com/priyeshkadbe/priyeshkadbe/main/assets/name.svg" alt="Priyesh Kadbe" />
 <!--       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Developer;Backend+Developer;Frontend+Developer&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&pause=1000&size=42" /> -->
 </h1>
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Full+Stack+Engineer;4%2B+Years+of+Production+Experience;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Solidity&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&pause=1000&size=32" />
-</h1>
+</h1> -->
 
 <samp>
 Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ years of experience building and shipping production systems end-to-end. I work across the full stack — designing backend services and APIs, architecting scalable data flows, and delivering polished, performant frontend experiences. I care about system design, code quality, and building things that hold up under real-world load. Currently focused on trading infrastructure, cross-chain protocols, and privacy-first decentralized applications.
