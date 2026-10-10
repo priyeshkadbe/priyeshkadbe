@@ -40,139 +40,58 @@ Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ ye
 ### Backend & Systems
 
 <p align="left">
-  <a href="#" target="_blank">
-    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="springboot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  </a>
-  &emsp;
+  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="springboot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
 ### Architecture
 
 <p align="left">
-  <a href="#" target="_blank">
-    <img alt="microservices" src="https://img.shields.io/badge/Microservices-24292E?style=for-the-badge&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="event-driven" src="https://img.shields.io/badge/Event--Driven_Systems-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="system-design" src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="monolith-migration" src="https://img.shields.io/badge/Monolith_Migration-6C5CE7?style=for-the-badge&logoColor=white" />
-  </a>
-  &emsp;
+  <img alt="microservices" src="https://img.shields.io/badge/Microservices-24292E?style=for-the-badge&logoColor=white" />
+  <img alt="event-driven" src="https://img.shields.io/badge/Event--Driven_Systems-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img alt="system-design" src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge&logoColor=white" />
+  <img alt="monolith-migration" src="https://img.shields.io/badge/Monolith_Migration-6C5CE7?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Databases & Storage
 
 <p align="left">
-  <a href="#" target="_blank">
-    <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  </a>
-  &emsp;
+  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### Frontend Development
 
 <p align="left">
-  <a href="#" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  </a>
-  &emsp;
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ### Languages
 
 <p align="left">
-  <a href="#" target="_blank">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  &emsp;
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### DevOps & Tools
 
 <p align="left">
-  <a href="#" target="_blank">
-    <img alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="ec2" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="s3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="ecr" src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="githubactions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  </a>
-  &emsp;
+  <img alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="ec2" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img alt="s3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img alt="ecr" src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="githubactions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 <br/>
