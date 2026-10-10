@@ -37,27 +37,11 @@ Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ ye
 
 ## 🚀 My Skills
 
-### Frameworks & Libraries
+### Backend & Systems
 
 <p align="left">
   <a href="#" target="_blank">
-    <img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
@@ -65,23 +49,41 @@ Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ ye
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="graphql" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img alt="springboot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  </a>
+  &emsp;
+</p>
+
+### Architecture
+
+<p align="left">
+  <a href="#" target="_blank">
+    <img alt="microservices" src="https://img.shields.io/badge/Microservices-24292E?style=for-the-badge&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="event-driven" src="https://img.shields.io/badge/Event--Driven_Systems-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img alt="system-design" src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+    <img alt="monolith-migration" src="https://img.shields.io/badge/Monolith_Migration-6C5CE7?style=for-the-badge&logoColor=white" />
+  </a>
+  &emsp;
+</p>
+
+### Databases & Storage
+
+<p align="left">
+  <a href="#" target="_blank">
+    <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="web3js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+    <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
@@ -89,11 +91,28 @@ Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ ye
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+    <img alt="redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </a>
+  &emsp;
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <a href="#" target="_blank">
+    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   </a>
   &emsp;
 </p>
@@ -109,30 +128,29 @@ Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ ye
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
   &emsp;
+  <a href="#" target="_blank">
+    <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
   &emsp;
 </p>
 
-### OS & Tools
+### DevOps & Tools
 
 <p align="left">
   <a href="#" target="_blank">
-    <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
@@ -140,11 +158,19 @@ Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ ye
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+    <img alt="ec2" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
   </a>
   &emsp;
   <a href="#" target="_blank">
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="s3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="ecr" src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="githubactions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   </a>
   &emsp;
 </p>
