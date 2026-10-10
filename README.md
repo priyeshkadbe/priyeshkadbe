@@ -109,13 +109,6 @@ Hey 👋 I'm <strong>Priyesh Kadbe</strong> — a Full Stack Engineer with 4+ ye
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
   &emsp;
-  <a href="#" target="_blank">
-    <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  </a>
   &emsp;
 </p>
 
